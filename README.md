@@ -150,4 +150,4 @@ This portfolio template is free to use and modify for personal and commercial pu
 
 ---
 
-**Built with passion by Rohan Umbarepatil**
+**Built by passion with Rohan Umbarepatil**
